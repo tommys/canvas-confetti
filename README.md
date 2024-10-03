@@ -1,4 +1,3 @@
-# [![Canvas Confetti](https://cdn.jsdelivr.net/gh/catdad-experiments/catdad-experiments-org@5ed78b/canvas-confetti/logo.jpg)](https://github.com/catdad/canvas-confetti/)
 
 [![github actions ci][ci.svg]][ci.link]
 [![jsdelivr][jsdelivr.svg]][jsdelivr.link]
